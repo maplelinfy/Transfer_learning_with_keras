@@ -16,4 +16,4 @@ python finetune_keras.py --data_dir=YOUR_DATA_PATH2
 
 The input here is the data folder generated from the previous step, './split_data' for example. 
 
-We currently support only three models [inception_v3, vgg16, resnet50].
+We currently support only three models ["inception_v3", "vgg16", "resnet50"].
