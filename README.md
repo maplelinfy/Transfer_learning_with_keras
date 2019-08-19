@@ -1,4 +1,6 @@
 # Transfer_learning_with_keras
+Usage:
+
 Step1: Split the dataset for training, validation and test
 
 python split_dataset.py --data_dir=YOUR_DATA_PATH
