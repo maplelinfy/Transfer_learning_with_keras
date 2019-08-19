@@ -1,5 +1,5 @@
 # Transfer_learning_with_keras
-# Usage:
+## Usage:
 
 ### Step1: Split the dataset for training, validation and test
 
