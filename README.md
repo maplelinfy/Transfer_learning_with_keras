@@ -10,7 +10,7 @@ In your data path, each category is a folder containing all of its samples, a fo
 
 Also, you can set the output directory of the data, proportion of training and validation samples.
 
-### Step2: Training a model
+### Step2: Train a model
 
 python finetune_keras.py --data_dir=DATA_PATH_FROM_STEP1
 
